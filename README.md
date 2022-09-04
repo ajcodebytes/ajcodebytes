@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A.J
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to learn and exchange ideas and praticipate in challenges ...
+- 💞️ I’m looking to learn and exchange ideas and participate in challenges ...
 - 📫 How to reach me ...ajcodebytes@gmail.com
 
 <!---
